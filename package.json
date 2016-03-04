@@ -1,0 +1,19 @@
+{
+  "name": "emoji-to-rgb-matrix",
+  "version": "0.0.1",
+  "description": "This app listens to the Twilio API for the most recently-sent SMS, extracts the last emoji from this SMS, and displays it on a 32x32 px RGB matrix display, all powered by Node and a Raspberry Pi 3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beforeyouknowit/skillsbc2016.git"
+  },
+  "author": "Ashley Theiss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beforeyouknowit/skillsbc2016/issues"
+  },
+  "homepage": "https://github.com/beforeyouknowit/skillsbc2016#readme"
+}
