@@ -16,7 +16,7 @@ This is happening on April 13th 2016 in Abbotsford, BC.
 
 - A two-player Pong or Snake game on the LED matrix display
 - Multiple roles and web views from Node app, i.e. 'admin', 'leaderboard', '1st player view', '2nd player view' etc.
-- Communal Lite-Brite® - 32x32 LED matrix, with ability to draw on colours and intensities via a browser-based app
+- Communal Lite-Brite® - LED matrix with ability to draw on colours and intensities by touch via a browser-based app (ie. used on a tablet)
 - Solid documentation (via [Docco](https://jashkenas.github.io/docco/)?)
 - Custom emoji importer for web front end?
 
