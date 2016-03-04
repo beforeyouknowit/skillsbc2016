@@ -23,6 +23,8 @@ This is happening on April 13th 2016 in Abbotsford, BC.
 
 ### March 4th Update
 
+Risk reduction: best to switch to 3x 32x32px RGB matricies, as this removes any questions about whether or not the RGB HAT is capable of handling 2x 32x64px panels instead.
+
 Now that the Raspberry Pi 3 is available, although at a steep premium in Canada at the moment, our parts builds now look like this:
 
 ~ $92 CAD: [Raspberry Pi 3 on Amazon](http://www.amazon.ca/gp/product/B01C6FRVQM)
