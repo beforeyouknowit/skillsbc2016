@@ -21,10 +21,7 @@ This is happening on April 13th 2016 in Abbotsford, BC.
 - Solid documentation (via [Docco](https://jashkenas.github.io/docco/)?)
 - Custom emoji importer for web front end?
 
-### Adafruit parts build / cart with product IDs:
-![adafruit cart](http://i.imgur.com/ocUsaFD.png)
-
-### Update
+### Marth 4th Update
 
 Now that the Raspberry Pi 3 is available, although at a steep premium in Canada at the moment, our parts builds now look like this:
 
