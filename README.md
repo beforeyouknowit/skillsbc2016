@@ -21,11 +21,12 @@ This is happening on April 13th 2016 in Abbotsford, BC.
 - Solid documentation (via [Docco](https://jashkenas.github.io/docco/)?)
 - Custom emoji importer for web front end?
 
-### Marth 4th Update
+### March 4th Update
 
 Now that the Raspberry Pi 3 is available, although at a steep premium in Canada at the moment, our parts builds now look like this:
 
 ~ $92 CAD: [Raspberry Pi 3 on Amazon](http://www.amazon.ca/gp/product/B01C6FRVQM)
 
 ~ $225 USD: Adafruit cart of parts; (Expect to pay another $30-50 CAD for duty upon delivery via UPS.)
+
 ![adafruit cart](http://i.imgur.com/iaj8ZOH.png)
