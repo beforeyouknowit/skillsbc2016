@@ -1,10 +1,24 @@
 # Skills BC 2016
 
+This is happening on April 13th 2016 in Abbotsford, BC.
 
-- Intel Edison or Arduino?
-- Text how you feel (last emoji sent via SMS/MMS, duplicated to Twilio inbound number, will be displayed on a 32x32 LED matrix panel)
-- Two-player Pong or Snake Game (on 32x32 LED matrix, with React Mobile slider and button interfaces) - Node.js server on Edison; 'admin' view, 'leaderboard' view, 1st player, 2nd player views
+> It sounds like we've settled on the (LED matrix display that shows last texted emoji) as our booth demo project.
+
+### The project needs to be broken down into the following parts:
+
+- Raspberry Pi 2 as display controller and local (Node) web server
+- LED matrix display build; 64x64 RGB LED display, incl. Raspberry Pi, HAT, power supply, acquired via Adafruit, (see cart with parts selection below.)
+- Twilio API methods (regex'ing out the emoji, Node app picking up latest, updating display, debug etc.)
+- Display/drawing methods
+- Web page with basic status/debug on Twilio connection, display/draw status etc.
+
+### If we still have additional time between now and April 13th:
+
+- A two-player Pong or Snake game on the LED matrix display
+- Multiple roles and web views from Node app, i.e. 'admin', 'leaderboard', '1st player view', '2nd player view' etc.
 - Communal Lite-Brite® - 32x32 LED matrix, with ability to draw on colours and intensities via a browser-based app
-- Homekit demo? Last-sent emoji as colour-code, which multiplayer game team is winning? etc
+- Solid documentation (via [Docco](https://jashkenas.github.io/docco/)?)
+- Custom emoji importer for web front end?
 
-- Rating: fun for teenagers vs development complexity vs effort/time required ?
+### Adafruit parts build / cart with product IDs:
+![adafruit cart](http://i.imgur.com/ocUsaFD.png)
