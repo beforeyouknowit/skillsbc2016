@@ -8,6 +8,7 @@ This is happening on April 13th 2016 in Abbotsford, BC.
 
 - Raspberry Pi 2 as display controller and local (Node) web server
 - LED matrix display build; 64x64 RGB LED display, incl. Raspberry Pi, HAT, power supply, acquired via Adafruit, (see cart with parts selection below.)
+- Essentially we're following this [Adafruit build guide](https://learn.adafruit.com/raspberry-pi-led-matrix-display) and this [Adafruit RGB HAT tutorial](https://learn.adafruit.com/adafruit-rgb-matrix-plus-real-time-clock-hat-for-raspberry-pi) for this build. Another LED guide from Adafruit can be found [here](https://github.com/hzeller/rpi-rgb-led-matrix).
 - Twilio API methods (regex'ing out the emoji, Node app picking up latest, updating display, debug etc.)
 - Display/drawing methods
 - Web page with basic status/debug on Twilio connection, display/draw status etc.
@@ -22,3 +23,12 @@ This is happening on April 13th 2016 in Abbotsford, BC.
 
 ### Adafruit parts build / cart with product IDs:
 ![adafruit cart](http://i.imgur.com/ocUsaFD.png)
+
+### Update
+
+Now that the Raspberry Pi 3 is available, although at a steep premium in Canada at the moment, our parts builds now look like this:
+
+~ $92 CAD: [Raspberry Pi 3 on Amazon](http://www.amazon.ca/gp/product/B01C6FRVQM)
+
+~ $225 USD: Adafruit cart of parts; (Expect to pay another $30-50 CAD for duty upon delivery via UPS.)
+![adafruit cart](http://i.imgur.com/iaj8ZOH.png)
