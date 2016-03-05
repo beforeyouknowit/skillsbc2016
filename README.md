@@ -32,3 +32,6 @@ Now that the Raspberry Pi 3 is available, although at a steep premium in Canada 
 ~ $225 USD: Adafruit cart of parts; (Expect to pay another $30-50 CAD for duty upon delivery via UPS.)
 
 ![adafruit cart](http://i.imgur.com/iaj8ZOH.png)
+
+### March 5th Update
+#### Raspberry Pi 3 board + 32GB MicroSD card ordered!
