@@ -1,3 +1,6 @@
 [submodule "rpi-fb-matrix"]
 	path = rpi-fb-matrix
 	url = https://github.com/adafruit/rpi-fb-matrix
+[submodule "emoji-extractor"]
+	path = emoji-extractor
+	url = https://github.com/tmm1/emoji-extractor
